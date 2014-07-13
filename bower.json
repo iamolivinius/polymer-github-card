@@ -1,9 +1,9 @@
 {
-  "name": "my-repo",
-  "version": "0.0.0",
-  "description": "My awesome Custom Element",
+  "name": "polymer-github-card",
+  "version": "0.0.1",
+  "description": "My awesome polymer-github-card Element",
   "license": "MIT",
-  "main": "dist/polymer-github-chart.html",
+  "main": "dist/polymer-github-card.html",
   "keywords": [
     "polymer",
     "web-components"
@@ -14,6 +14,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.3.3"
+    "polymer": "~0.3.3"
   }
 }

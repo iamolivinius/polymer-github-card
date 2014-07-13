@@ -1,4 +1,4 @@
-# &lt;polymer-github-chart&gt;
+# &lt;polymer-github-card&gt;
 
 > A bare minimum custom element starter-kit using [Polymer](http://www.polymer-project.org/).
 >
@@ -8,17 +8,17 @@
 
 ## Demo
 
-[Check it live!](http://iamolivinius.github.io/polymer-github-chart)
+[Check it live!](http://iamolivinius.github.io/polymer-github-card)
 
 ## Install
 
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install polymer-github-chart --save
+$ bower install polymer-github-card --save
 ```
 
-Or [download as ZIP](https://github.com/iamolivinius/polymer-github-chart/archive/master.zip).
+Or [download as ZIP](https://github.com/iamolivinius/polymer-github-card/archive/master.zip).
 
 ## Usage
 
@@ -31,13 +31,13 @@ Or [download as ZIP](https://github.com/iamolivinius/polymer-github-chart/archiv
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/polymer-github-chart/dist/polymer-github-chart.html">
+    <link rel="import" href="bower_components/polymer-github-card/dist/polymer-github-card.html">
     ```
 
 3. Start using it!
 
     ```html
-    <polymer-github-chart user="iamolivinius"></polymer-github-chart>
+    <polymer-github-card user="iamolivinius"></polymer-github-card>
     ```
 
 ## Options
@@ -90,7 +90,7 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/iamolivinius/polymer-github-chart/releases).
+For detailed changelog, check [Releases](https://github.com/iamolivinius/polymer-github-card/releases).
 
 ## License
 
