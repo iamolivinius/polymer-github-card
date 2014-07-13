@@ -1,10 +1,8 @@
 # &lt;polymer-github-card&gt;
 
 > A bare minimum custom element starter-kit using [Polymer](http://www.polymer-project.org/).
->
-> Like [Yeoman](http://yeoman.io/)? Use the [generator-element](https://www.npmjs.org/package/generator-element) instead.
->
-> Looking for a working example? Check [hello-world-polymer](https://github.com/webcomponents/hello-world-polymer).
+
+Original VanillaJS version: https://github.com/pazguille/github-card
 
 ## Demo
 
